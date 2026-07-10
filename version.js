@@ -1,1 +1,0 @@
-{"latest": "2.0.0-beta.1", "url": "https://github.com/thetrueone11990-cyber/valatir-releases"}
